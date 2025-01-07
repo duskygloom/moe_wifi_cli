@@ -4,11 +4,10 @@
 
 # python
 __pycache__/
+venv/
 
-# config
+# personal files
 config.json
-
-# secret
 secret.json
 
 # log
