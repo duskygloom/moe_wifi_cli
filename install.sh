@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-pybin=python3
+pybin="venv/bin/python3"
 appdir=`pwd`
 
 echo "Installing requirements..."
