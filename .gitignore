@@ -1,0 +1,22 @@
+# vscode
+.vscode/
+.vs/
+
+# python
+__pycache__/
+
+# config
+config.json
+
+# secret
+secret.json
+
+# log
+*.log
+
+# test
+__test*
+
+# run scripts
+moe.bat
+moe

@@ -1,0 +1,12 @@
+{
+	"route": "http://1.254.254.254",
+	"username": "username",
+	"password": "password",
+	"session_id": "",
+	"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0",
+	"endpoints": {
+		"home": "http://122.252.242.93/userportal/home.do",
+		"login": "http://122.252.242.93/userportal/newlogin.do",
+		"logout": "http://122.252.242.93/userportal/logout.do"
+	}
+}
