@@ -15,6 +15,7 @@ echo Writing script...
 echo @echo OFF> %runscript%
 echo set prevdir=%%CD%%>> %runscript%
 echo set appdir=%appdir%>> %runscript%
+echo cd %%appdir%%
 echo %pyexe% main.py %%*>> %runscript%
 echo cd %%prevdir%%>> %runscript%
 
